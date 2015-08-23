@@ -1,5 +1,5 @@
 {
-	"name" : "torifat/cake-menu_builder",
+	"name" : "klarkc/cake-menu_builder",
 	"description": "A dynamic menu building helper for CakePHP 2.x",
 	"type" : "cakephp-plugin",
 	"keywords": [
